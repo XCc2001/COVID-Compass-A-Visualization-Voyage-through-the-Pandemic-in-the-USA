@@ -16,11 +16,11 @@ I spearheaded the development of 'Pandemic Pulse,' an impactful project that sho
 
 ## Key Contributions:
 
-· I created a heat map illustrating the spread of COVID-19 across the United States, providing a comprehensive view of the pandemic's impact on a state-by-state basis.
+I created a heat map illustrating the spread of COVID-19 across the United States, providing a comprehensive view of the pandemic's impact on a state-by-state basis.
 
-· I developed box plots for each month, displaying the distribution of COVID-19 tests conducted in different provinces. This visual representation allowed for easy identification of testing patterns and trends over time.
+I developed box plots for each month, displaying the distribution of COVID-19 tests conducted in different provinces. This visual representation allowed for easy identification of testing patterns and trends over time.
 
-· To provide a holistic view, I designed an interactive dashboard that seamlessly integrated the heat map and box plots. This comprehensive visualization enabled users to explore the data at different levels of granularity and gain valuable insights into the progression of the pandemic throughout 2020.
+To provide a holistic view, I designed an interactive dashboard that seamlessly integrated the heat map and box plots. This comprehensive visualization enabled users to explore the data at different levels of granularity and gain valuable insights into the progression of the pandemic throughout 2020.
 
 ### State Details
 ![1684730533185](https://github.com/XCc2001/US-COVID19/assets/86503605/7a9c7e64-2e15-4fb0-a6c2-b4f5de52ad45)
